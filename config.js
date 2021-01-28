@@ -1,0 +1,22 @@
+exports.workspaceId='#',
+exports.hasCamera=true,
+exports.credentials={},
+exports.credentials.assistant={
+    apikey:'#',
+    url:'https://gateway.watsonplatform.net/assistant/api/v1/workspaces/bdf8e6b4-5020-4a7f-9b85-212455f7e22b/message'
+};
+exports.credentials.speech_to_text={
+    apikey:'#',
+    url:'https://stream.watsonplatform.net/speech-to-text/api',
+    version:'V1'
+};
+exports.credentials.text_to_speech={
+    apikey:'#',
+    url:'https://stream.watsonplatform.net/text-to-speech/api'
+};
+exports.credentials.visual_recognition={
+    apikey:'#',
+    url:'https://gateway.watsonplatform.net/visual-recognition/api'
+};
+exports.attentionWord='watson';
+exports.voice='en-US_MichaelVoice';
