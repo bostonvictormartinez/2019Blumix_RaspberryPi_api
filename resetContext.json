@@ -1,0 +1,14 @@
+{
+  "context":{
+    "person": null,
+  
+  "output": {
+    "generic": [
+      {
+        "response_type": "text",
+        "values": [],
+        "selection_policy": "sequential"
+      }
+    ]
+  }}
+}
